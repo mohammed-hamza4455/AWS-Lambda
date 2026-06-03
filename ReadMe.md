@@ -1,4 +1,4 @@
-# Experiment: AWS Lambda
+# Experiment: AWS Lambda.
 
 ## AIM
 
